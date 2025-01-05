@@ -1,6 +1,8 @@
 # JustWriteIt
 
-![JustWriteIt Logo](resources/images/logo.png)
+<p align="center">
+    <img src="resources/images/logo.png" alt="JustWriteIt Logo">
+</p>
 
 JustWriteIt is a blog application built with Laravel. It allows users to create,
 edit, and manage blog posts with ease. The application includes features such as
