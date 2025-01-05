@@ -1,6 +1,6 @@
 # JustWriteIt
 
-<img src="public/logo-side-text.svg" alt="JustWriteIt Logo" width="200" height="150" style="display: block; margin: 0 auto; object-fit: cover;">
+<img src="resources/images/logo.png" alt="JustWriteIt Logo" width="200" height="150" style="display: block; margin: 0 auto; object-fit: cover;">
 
 JustWriteIt is a blog application built with Laravel. It allows users to create,
 edit, and manage blog posts with ease. The application includes features such as
