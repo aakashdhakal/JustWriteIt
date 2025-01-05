@@ -23,7 +23,7 @@ user authentication, post categorization, and more.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/justwriteit.git
+   git clone https://github.com/aakashdhakal/justwriteit.git
    cd justwriteit
    ```
 
@@ -87,7 +87,7 @@ details.
 ## Contact
 
 For any questions or suggestions, please contact
-[yourname@example.com](mailto:yourname@example.com).
+[contact@aakashdhakal.com.np](mailto:contact@aakashdhakal.com.np).
 
 ---
 
